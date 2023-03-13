@@ -1,0 +1,66 @@
+    <!DOCTYPE html>
+<html>
+<head>
+	<title>My website</title>
+	 <style>
+	body{ 
+           background-color:cyan;
+}
+         section1{
+          background-color: grey;
+          border: 3px solid red;
+	  padding:9px;
+	  margin: 14px 19px;
+	  border-radius:23px;
+	  width:233px;
+          float:left;
+
+	      
+		}
+section2{
+          background-color: grey;
+          border: 3px solid red;
+	  padding:9px;
+	  margin: 14px 19px;
+	  border-radius:23px;
+	  width:233px;
+	float:left;
+
+	      
+		}
+section3{
+          background-color: grey;
+          border: 3px solid red;
+	  padding:20px;
+	  margin: 14px 19px;
+	  border-radius:23px;
+	  width:233px;
+	float:left;
+	      
+		}	
+         </style>
+</head>
+<body>
+	<header>
+		<h1>My Menu</h1>
+	</header>
+
+	<main>
+		   <section1 class=”chicken”>
+			<div class=”section-title”>Chicken</div>
+			 
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt commodo risus eget blandit. Nam pretium est nunc, vel dapibus enim molestie ac.</p>
+		</section1>
+		<section2 class=”beef”>
+			<div class=”section-title”>Beef</div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt commodo risus eget blandit. Nam pretium est nunc, vel dapibus enim molestie ac.</p>
+		</section2>
+		<section3 class=”sushi”>
+			<div class=”section-title”>Sushi</div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tincidunt commodo risus eget blandit. Nam pretium est nunc, vel dapibus enim molestie ac.</p>
+		</section3>
+	</main>
+</body>
+</html>
+	 
+	 
